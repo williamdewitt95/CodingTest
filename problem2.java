@@ -1,11 +1,6 @@
 import java.util.*;
 
 
-
-
-// public GNode[] getChildren(){
-
-// }
 public class problem2{
 	/*
 	*Recursively walk through each GNode's children until we hit the end leaf(s)

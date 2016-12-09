@@ -1,0 +1,2 @@
+Hello World! This is data designed to test a program that reads in "words" from a data file like this one.
+While this text file has punctuation, the results that will be printed will ignore punctuation.

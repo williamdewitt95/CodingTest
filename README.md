@@ -1,0 +1,1 @@
+Note: These programs were compiled with: (OpenJDK-8) and assume that this compiler will be used if possible
